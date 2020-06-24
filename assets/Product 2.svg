@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 102">
+  <g data-name="Layer 2">
+    <g data-name="Product 2">
+      <rect
+        x="1"
+        y="1"
+        width="170"
+        height="100"
+        rx="13.42"
+        fill="#fdcb00"
+        stroke="#fede4d"
+        stroke-miterlimit="10"
+        stroke-width="2"
+      />
+      <text
+        transform="translate(10 23.34)"
+        font-size="17"
+        fill="#704c01"
+        font-family="InterFace-Regular,InterFace"
+      >
+        P
+        <tspan x="9.25" y="0" letter-spacing="-.01em">r</tspan>
+        <tspan x="14.55" y="0">oduct</tspan>
+      </text>
+      <text
+        transform="translate(9 83.34)"
+        font-weight="700"
+        font-size="32"
+        fill="#402900"
+        font-family="InterFace-Bold,InterFace"
+      >
+        30mL
+      </text>
+      <text
+        transform="translate(128 84.34)"
+        font-size="60"
+        fill="#ffe673"
+        font-family="InterFace-XBold,InterFace"
+        font-weight="700"
+      >
+        2
+      </text>
+    </g>
+  </g>
+</svg>

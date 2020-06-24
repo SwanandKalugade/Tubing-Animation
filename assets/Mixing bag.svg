@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 82">
+  <rect
+    x="1"
+    y="1"
+    width="170"
+    height="80"
+    rx="12"
+    fill="#fdcb00"
+    stroke="#fede4d"
+    stroke-miterlimit="10"
+    stroke-width="2"
+  />
+  <text
+    transform="translate(11 23.34)"
+    font-size="17"
+    fill="#704c01"
+    font-family="InterFace-Regular,InterFace"
+  >
+    Mixing Bag
+  </text>
+  <text
+    transform="translate(10 64.34)"
+    font-size="32"
+    fill="#402900"
+    font-family="InterFace-Bold,InterFace"
+    font-weight="700"
+  >
+    30mL
+  </text>
+</svg>

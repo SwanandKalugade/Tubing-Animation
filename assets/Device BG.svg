@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 746 296">
+  <defs>
+    <style>
+      .cls-2 {
+        fill: none;
+        stroke: #3a4046;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Device_BG-2" data-name="Device BG">
+    <path
+      d="M745 295H1V61A60 60 0 0 1 61 1h624a60 60 0 0 1 60 60z"
+      fill="#212528"
+    />
+    <path class="cls-2" d="M745 293v2h-2" />
+    <path
+      stroke-dasharray="4 4"
+      fill="none"
+      stroke="#3a4046"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+      d="M739 295H5"
+    />
+    <path class="cls-2" d="M3 295H1v-2" />
+    <path
+      d="M1 289V61A60 60 0 0 1 61 1h624a60 60 0 0 1 60 60v230"
+      stroke-dasharray="4 4"
+      fill="none"
+      stroke="#3a4046"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="2"
+    />
+  </g>
+</svg>

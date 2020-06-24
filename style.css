@@ -1,0 +1,177 @@
+/* START OF RESET CSS 2.0 */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* END OF RESET CSS 2.0 */
+
+.container {
+  width: 800px; height: 600px;
+  background-color: #252A2D;
+  font-family: sans-serif;
+}
+
+#deviceBG {
+	width: 744px;
+	position: absolute; 
+	top: 296px; left: 28px;
+	z-index: 0;
+
+	fill: #1b1f21;
+	stroke: #3a4046;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-dasharray: 4 4;
+}
+
+#mixingBag {
+	position: absolute;
+	width: 170px; height: 80px;
+	top: 316px;	left: 490px;
+	z-index: 3;
+}
+
+.product {
+	position: absolute;
+	width: 170px; height: 100px;
+	z-index: 3;
+}
+
+#bag3 {
+	top: 470px; left: 45px;
+}
+
+#bag2 {
+	top: 470px; left: 225px;
+}
+
+#bag1 {
+	top: 470px; left: 405px;
+}
+
+#quality {
+	top: 470px; left: 585px;
+}
+
+.tubing {
+	position: absolute;
+	width: 642px;
+	top: 275px; left: 79px;
+	z-index: 1;
+}
+
+.arrowRight {
+	position: absolute;
+	width: 28px; top: 348px; left: 650px;
+	z-index: 2;
+	/* opacity: 0; */
+}
+
+.arrowLeft {
+	position: absolute;
+	width: 28px;
+	z-index: 2;
+	/* opacity: 0; */
+}
+
+.arrowDown {
+	position: absolute;
+	width: 28px;
+	z-index: 2;
+	/* opacity: 0; */
+}
+
+#arrowLeft1 {
+	top: 410px; left: 670px;
+}
+
+#arrowLeft2 {
+	top: 410px; left: 604px;
+}
+
+#arrowLeft3 {
+	top: 410px; left: 538px;
+}
+
+#arrowLeft4 {
+	top: 410px; left: 472px;
+}
+
+#arrowLeft5 {
+	top: 410px; left: 406px;
+}
+
+#arrowLeft6 {
+	top: 410px; left: 340px;
+}
+
+#arrowLeft7 {
+	top: 410px; left: 274px;
+}
+
+#arrowLeft8 {
+	top: 410px; left: 208px;
+}
+
+#arrowLeft9 {
+	top: 410px; left: 142px;
+}
+
+#arrowDown1 {
+	top: 365px; left: 706px;
+}
+
+#arrowDown2 {
+	top: 430px; left: 66px;
+}
+
+.arrow1 {
+	fill: #fdcb00;
+}
+
+.arrow2 {
+	fill: #1b1f21;
+}
+
+#activeTube {
+ z-index: 0;
+}

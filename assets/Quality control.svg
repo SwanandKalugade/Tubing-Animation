@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 102">
+  <g data-name="Layer 2">
+    <g data-name="Quality control">
+      <rect
+        x="1"
+        y="1"
+        width="170"
+        height="100"
+        rx="13.42"
+        fill="#3a4046"
+        stroke="#444b52"
+        stroke-miterlimit="10"
+        stroke-width="2"
+      />
+      <text
+        transform="translate(11 24.34)"
+        font-size="17"
+        fill="#ecedee"
+        font-family="InterFace-Regular,InterFace"
+      >
+        Quality Cont
+        <tspan x="85.93" y="0" letter-spacing="-.01em">r</tspan>
+        <tspan x="91.24" y="0" letter-spacing="0">ol</tspan>
+      </text>
+      <text
+        transform="translate(11 84.34)"
+        font-size="32"
+        fill="#7c8086"
+        font-family="InterFace-Bold,InterFace"
+        font-weight="700"
+      >
+        20mL
+      </text>
+    </g>
+  </g>
+</svg>
