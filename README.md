@@ -1,4 +1,4 @@
-# Tubing-Animation
+# Tubing Animation
 Tubing animation demo created using SVG and GreenSock's TimelineMax animation modules. 
 </br></br>
 
